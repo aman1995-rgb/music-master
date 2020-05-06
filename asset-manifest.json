@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/.github.io/music-master/static/css/main.98ab616d.chunk.css",
+    "main.js": "/.github.io/music-master/static/js/main.434e844d.chunk.js",
+    "main.js.map": "/.github.io/music-master/static/js/main.434e844d.chunk.js.map",
+    "runtime-main.js": "/.github.io/music-master/static/js/runtime-main.4f7a6a01.js",
+    "runtime-main.js.map": "/.github.io/music-master/static/js/runtime-main.4f7a6a01.js.map",
+    "static/js/2.986abb6b.chunk.js": "/.github.io/music-master/static/js/2.986abb6b.chunk.js",
+    "static/js/2.986abb6b.chunk.js.map": "/.github.io/music-master/static/js/2.986abb6b.chunk.js.map",
+    "index.html": "/.github.io/music-master/index.html",
+    "precache-manifest.666bbde540691fd92998404c4733edb4.js": "/.github.io/music-master/precache-manifest.666bbde540691fd92998404c4733edb4.js",
+    "service-worker.js": "/.github.io/music-master/service-worker.js",
+    "static/css/main.98ab616d.chunk.css.map": "/.github.io/music-master/static/css/main.98ab616d.chunk.css.map",
+    "static/js/2.986abb6b.chunk.js.LICENSE.txt": "/.github.io/music-master/static/js/2.986abb6b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/.github.io/music-master/static/media/hero-bg.9e4be134.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f7a6a01.js",
+    "static/js/2.986abb6b.chunk.js",
+    "static/css/main.98ab616d.chunk.css",
+    "static/js/main.434e844d.chunk.js"
+  ]
+}
